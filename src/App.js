@@ -5,7 +5,7 @@ import country from './country';
 function App() {
   return (
     <div className="App">
-      <country> </country>
+      <country/>
     </div>
   );
 }
