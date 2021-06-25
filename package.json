@@ -9,7 +9,10 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-redux": "^7.2.4",
+<<<<<<< HEAD
     "react-router": "^5.2.0",
+=======
+>>>>>>> 7ebce7ff171b85d45504df3d27719f1b369a48a1
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.3",
     "redux": "^4.1.0",
